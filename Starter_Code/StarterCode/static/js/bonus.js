@@ -64,7 +64,7 @@ d3.json(url).then(function(data) {
               domain: {x: [0,1], y: [0,1]},
               title: {
                   text: "<b>Belly Button Washing Frequency</b><br>Scrubs per Week",
-                  font: {color: "black", size: 16}
+                  font: {color: "green", size: 16}
               },
               type: "indicator",
               mode: "gauge+number",
