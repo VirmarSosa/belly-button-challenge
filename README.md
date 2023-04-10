@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/118692087/230818166-755ed4d1-15fe-4c2f-8ecd-7b5476707009.png)
+
+
 # belly-button-challenge
 
 The purpose of this challenge is to create an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
