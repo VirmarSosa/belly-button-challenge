@@ -14,3 +14,7 @@ Following files are attached:
 •	app.js: Main JavaScript file for handling and displaying data.
 
 •	bonus.js: Bonus JavaScript file for two types of gauge chart.
+
+
+![image](https://user-images.githubusercontent.com/118692087/230818372-eb2fb97c-c782-4fc4-ac32-d633f85feb6a.png)
+
