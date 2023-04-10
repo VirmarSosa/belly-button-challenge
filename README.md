@@ -22,7 +22,6 @@ Following files are attached:
 
 ![image](https://user-images.githubusercontent.com/118692087/230818522-3dac08aa-b23c-422e-8efe-0f68194934ea.png)
 
-
 Demographics information is dynamically populated based upon a user-selected test subject ID. A bar chart, bubble chart and a bonus gauge chart also update once the ID is changed. Code has been written using Plotly, JavaScript, HTML, CSS, and D3.js.
 
 All CSS, JS and images required are under the static folder. The main HTML file index.html is in the root folder of the Github repo.
