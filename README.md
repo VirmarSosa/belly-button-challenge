@@ -9,11 +9,11 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 Following files are attached:
 
-•	index.html: Main page with an interactive dashboard.
+    1. Bar chart featuring the top ten microbial species (OTUs or operational taxonomic units)
 
-•	app.js: Main JavaScript file for handling and displaying data.
+    2. Bubble chart featuring all microbial species
 
-•	bonus.js: Bonus JavaScript file for two types of gauge chart.
+    3. Gauge of the frequency of belly button washes weekly for each individual
 
 
 ![image](https://user-images.githubusercontent.com/118692087/230818372-eb2fb97c-c782-4fc4-ac32-d633f85feb6a.png)
