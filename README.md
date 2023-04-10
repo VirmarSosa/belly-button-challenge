@@ -6,6 +6,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 Following files are attached:
 
-•	index.html: Main page with an interactive dashboard
+•	index.html: Main page with an interactive dashboard.
+
 •	app.js: Main JavaScript file for handling and displaying data.
+
 •	bonus.js: Bonus JavaScript file for two types of gauge chart.
